@@ -20,4 +20,4 @@ This project presents a UI/UX prototype for a Dyslexia Learning Support System d
 - Simple navigation structure
 
 ## Prototype Link
-[Insert your Figma prototype link here]
+https://www.figma.com/make/fRu0y6A9o6blWYvheSxbyd/Dyslexia-Learning-Support-App?t=bn17ntd5AdZ9OusI-1
