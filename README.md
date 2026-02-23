@@ -1,4 +1,4 @@
-# Dyslexia Learning Support System (Prototype)
+* Dyslexia Learning Support System (Prototype)
 
 ## Overview
 This project presents a UI/UX prototype for a Dyslexia Learning Support System designed for children aged 6–12. The system aims to provide interactive and engaging learning experiences tailored to dyslexic students.
